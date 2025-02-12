@@ -1,4 +1,4 @@
-https://youtu.be/8Unym6iYkf8
+[![DevOps Komodo](https://img.youtube.com/vi/8Unym6iYkf8/0.jpg)](https://www.youtube.com/watch?v=8Unym6iYkf8)
 
 # KOMODO
 
